@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -     8780990112
 -     nidhijikadra3103@gmail.com
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fbusiness-woman-working-on-laptop-vector-15381675&psig=AOvVaw1gT0IPBb0jS15j8rXNBvbB&ust=1698170437652000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiT3P_fjIIDFQAAAAAdAAAAABAE" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZQWzMxyEO48Rvyd4Ba4-3t07iLhuAYzSxA&usqp=CAU" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nidhi-jikadra]) 
