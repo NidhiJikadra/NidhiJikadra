@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 - 🌱 I'm currently learning Node js.
 - 📫 How to reach me:
--     8780990112
--     nidhijikadra3103@gmail.com
+-   📱 8780990112
+-   📧 nidhijikadra3103@gmail.com
 
 
 
