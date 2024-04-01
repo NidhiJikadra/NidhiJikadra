@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- 🌱 I'm currently learning Node js.
+- 🌱 Node js Developer
+- 🔭 I’m currently working on sql, asp .net, c sharp.
 - 📫 How to reach me:
 -   📱 8780990112
 -   📧 nidhijikadra3103@gmail.com
